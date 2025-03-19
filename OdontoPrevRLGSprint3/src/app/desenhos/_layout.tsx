@@ -13,27 +13,27 @@ export default function TabLayout() {
        <Drawer.Screen 
         name="index" 
         options={
-            {title: 'Start'}
+            {title: 'OdontoPrev'}
         } />      
         <Drawer.Screen
-        name="preparing"
+        name="login"
         options={
-            {title: 'Preparing'}
+            {title: 'Login'}
         } />
           <Drawer.Screen
-        name="sent"
+        name="telarecuperacao"
         options={
-            {title: 'Sent'}
+            {title: 'Tela Recuperação '}
         } />
            <Drawer.Screen
         name="delivered"
         options={
-            {title: 'Delivered'}
+            {title: 'Clinicas'}
         } />
             <Drawer.Screen
-        name="about"
+        name="dentista"
         options={
-            {title: 'About'}
+            {title: 'Dentistas'}
         } />
         
     </Drawer>

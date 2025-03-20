@@ -24,6 +24,8 @@
 https://youtu.be/VcpYH7-OY7U
 
 # Segue abaixo o desenho do diagrama de arquitetura da API
+![image](https://github.com/user-attachments/assets/0ebb6a62-42e5-470d-aaf6-bd02f2296e7d)
+
 
 
 

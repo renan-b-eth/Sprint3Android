@@ -1,12 +1,29 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { Button, StyleSheet, Text, View } from 'react-native';
+import { Image } from 'react-native';
+import React from 'react';
+
+
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
+    <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
       <StatusBar style="auto" />
+      <Image
+        source={require('./logo.png')}
+        style={{
+          width: 200,
+          height: 200,
+          resizeMode: 'contain'
+        }}
+      />
+      <Button 
+      title="Ir Proxima Tela"
+      onPress={() => alert('Botão pressionado!')}
+        />
+
     </View>
+    
   );
 }
 

@@ -1,5 +1,8 @@
 # O APP está na pasta AppSideBarMenu
 # Projeto Feito por Renan, Lucas e Glenda.
+Glenda Delfy Vela Mamani - RM 552667
+Lucas Alcântara Carvalho - RM 95111 
+Renan Bezerra dos Santos - RM 553228
 
 # Nos computadores da FIAP precisa instalar alguns npm para funcionar.
  - npm install expo-cli dentro da pasta AppSideBarMenu

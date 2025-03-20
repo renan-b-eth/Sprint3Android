@@ -25,11 +25,16 @@ export default function Delivered() {
           height: 50,
           resizeMode: 'contain',
           position: "relative",
-          top: -250,
+          top: -225,
           left: -130
           
         }}
       /> 
+
+    <Text style={styles.textoTitulo}>Clinica DentalCompany</Text>
+    <Text style={styles.textoScoring}>Scoring: 3</Text>
+    <Text style={styles.textoQtd}>Quantidade Profissionais: 1</Text>
+    <Text style={styles.textoSinistro}>Sinistros: 20</Text>
 
 
 
@@ -41,7 +46,7 @@ export default function Delivered() {
           width: 200,
           height: 200,
           resizeMode: 'contain',
-          marginBottom: -350
+          marginBottom: -300
         }}
       /> 
     </View>
@@ -61,4 +66,29 @@ const styles = StyleSheet.create({
       fontWeight: 'bold',
         color: "#000",
     },
+    textoTitulo: {
+      fontSize: 15,
+      fontWeight: 'bold',
+      color: "#000",
+      position: "relative",
+      top: -300
+    },
+    textoScoring: {
+      fontSize: 15,
+      color: "#000",
+      position: "relative",
+      top: -295
+    },
+    textoQtd: {
+      fontSize: 15,
+      color: "#000",
+      position: "relative",
+      top: -290
+    },
+    textoSinistro: {
+      fontSize: 15,
+      color: "#000",
+      position: "relative",
+      top: -285
+    }
 })

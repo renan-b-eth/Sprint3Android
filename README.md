@@ -1,4 +1,6 @@
 # O APP está na pasta AppSideBarMenu
+# Projeto Feito por Renan, Lucas e Glenda.
+
 # Nos computadores da FIAP precisa instalar alguns npm para funcionar.
  - npm install expo-cli dentro da pasta AppSideBarMenu
  - É normal ficar vermelho. Apenas excute o npm run android

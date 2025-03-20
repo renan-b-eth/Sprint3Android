@@ -20,6 +20,9 @@
 ![image](https://github.com/user-attachments/assets/7e8a9d03-d2b1-43c6-9cb8-af89debc1d46)
 ![image](https://github.com/user-attachments/assets/61759f06-9f49-4a56-b286-8c994b0a29fa)
 
+# Video do APP funcionando
+https://youtu.be/VcpYH7-OY7U
+
 # Segue abaixo o desenho do diagrama de arquitetura da API
 
 

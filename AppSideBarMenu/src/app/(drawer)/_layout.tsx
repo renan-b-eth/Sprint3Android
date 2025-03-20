@@ -23,17 +23,17 @@ export default function TabLayout() {
           <Drawer.Screen
         name="sent"
         options={
-            {title: 'Sent'}
+            {title: 'Recuperação Senha'}
         } />
            <Drawer.Screen
         name="delivered"
         options={
-            {title: 'Delivered'}
+            {title: 'Clinica Credenciadas'}
         } />
             <Drawer.Screen
         name="about"
         options={
-            {title: 'About'}
+            {title: 'Dentistas'}
         } />
         
     </Drawer>

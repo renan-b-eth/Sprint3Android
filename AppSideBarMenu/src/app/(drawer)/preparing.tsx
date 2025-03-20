@@ -36,9 +36,11 @@ export default function Preparing() {
         onChangeText={setSenha}
         secureTextEntry={true}
       />
-      <Button 
+      <Button
+      
       title="LOGIN"
       onPress={() => alert('VERIFICAR LOGIN POSTERIOMENTE!')}
+      
         />
         <Button 
       title="CADASTRO"
